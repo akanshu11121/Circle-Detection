@@ -1,0 +1,2 @@
+# Circle-Detection
+Circle detection is a python code using Hough Circles algorithm implemented inside openCV library in python. This project takes the image through users webcam and the converts it to gray scale further blurring and applying a search run algorithm through regional frames , sliding all over the image it tries to find all the possible circles and enumerate it at the top-left corner of the image. The code is very simple and easy to understand and implement.
